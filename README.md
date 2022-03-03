@@ -1,1 +1,1 @@
-# Practice the basic arithmetic operation thrugh an interactive console application. 
+# Practice the basic arithmetic operation through an interactive console application. 
